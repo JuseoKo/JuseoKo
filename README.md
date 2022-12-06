@@ -1,16 +1,17 @@
-### Hi there 👋
+<div align="center">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuseoKo&theme=dracula&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=compact&langs_count=8"/>
 
-<!--
-**JuseoKo/JuseoKo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  
+  ### JuseoKo 
+  
+  [![Solved.ac
+  프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=백준아이디)](https://solved.ac/mariat1717)
+  ## Skilk
+  <img src="https://img.shields.io/badge/Django-092E20?&logo=Django&logoColor=white">
+  <img src="https://img.shields.io/badge/Fastapi-009688?&logo=FastAPI&logoColor=white">
+  <img src="https://img.shields.io/badge/Keras-D00000?&logo=Keras&logoColor=white">
+<!--  기본 <img src="https://img.shields.io/badge/넣을 글씨-색상값?&logo=뱃지이름&logoColor=white">  -->
+<!-- https://simpleicons.org/?q=html -->
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
