@@ -5,7 +5,7 @@
   ### JuseoKo 
   [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=mariat1717)](https://solved.ac/mariat1717)
-  ## Skilk
+  ## Skill
   <img src="https://img.shields.io/badge/Django-092E20?&logo=Django&logoColor=white">
   <img src="https://img.shields.io/badge/Fastapi-009688?&logo=FastAPI&logoColor=white">
   <img src="https://img.shields.io/badge/Keras-D00000?&logo=Keras&logoColor=white">
