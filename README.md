@@ -8,8 +8,9 @@
   ## Skill
   <img src="https://img.shields.io/badge/Django-092E20?&logo=Django&logoColor=white">
   <img src="https://img.shields.io/badge/Keras-D00000?&logo=Keras&logoColor=white">
-  <img src="https://img.shields.io/badge/Amazon%20AWS-AWS-%23232F3E?&logo=Amazon AWS&logoColor=white">
+  <img src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?&logo=Amazon AWS&logoColor=white">
   <img src="https://img.shields.io/badge/My SQL-4479A1?&logo=MYSQL&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-%232496ED?&logo=Docker&logoColor=white">
 <!--  기본 <img src="https://img.shields.io/badge/넣을 글씨-색상값?&logo=뱃지이름&logoColor=white">  -->
 <!-- https://simpleicons.org/?q=html -->
 </div>
