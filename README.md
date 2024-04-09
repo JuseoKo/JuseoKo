@@ -12,6 +12,9 @@
   <img src="https://img.shields.io/badge/Docker-%232496ED?&logo=Docker&logoColor=white">
 <!--  기본 <img src="https://img.shields.io/badge/넣을 글씨-색상값?&logo=뱃지이름&logoColor=white">  -->
 <!-- https://simpleicons.org/?q=html -->
+  ## Technology Goals
+  ### ETL
+  <img src="https://img.shields.io/badge/apachespark-E25A1C?&logo=apachespark&logoColor=white">
 </div>
 
 
